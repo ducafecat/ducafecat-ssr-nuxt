@@ -4,11 +4,11 @@
 
 ## todo
 
-- 模块化 `store`
-- 通讯封装 `server` `client`
-- 安全认证 `token` 离线登录
-- 数据代理转发
-- 部署 `pm2`
+[] 模块化 `store`
+[] 通讯封装 `server` `client`
+[] 安全认证 `token` 离线登录
+[] 数据代理转发
+[x] 部署 `pm2`
 
 ## Build Setup
 
